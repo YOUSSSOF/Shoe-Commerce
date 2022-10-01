@@ -7,8 +7,8 @@ Design source: https://www.figma.com/file/T6Xewwh7oZQ9jlPgdsX3MM/Movies-app-(Com
 
 # Preview:
 
-| Attempt |  https://github.com/YOUSSSOF/Shoe-Commerce/blob/main/assets/screenshots/Screenshot_20221001_204534_com.example.ecommerce.jpg   | Screenshot_20221001_204608_com.example.ecommerce.jpg    |
-| :---:   | :---: | :---: |
+     |     |
+ :---: | :---: |
 
 
 ## Features:
