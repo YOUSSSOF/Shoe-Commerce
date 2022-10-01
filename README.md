@@ -1,4 +1,4 @@
-# Movies App
+# Shoe Commerce
 
 Modern looking shoe store app built in flutter and help of GetX :)
 
@@ -8,6 +8,7 @@ Design source: https://www.figma.com/file/T6Xewwh7oZQ9jlPgdsX3MM/Movies-app-(Com
 # Preview:
 
 Attempt | #1 | #2 | #3 | #4 | #5 | #6 | #7 | #8 | #9 | #10 | #11
+--- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- |---
 
 
 ## Features:
