@@ -2,7 +2,7 @@
 
 Modern looking shoe store app built in flutter and help of GetX :)
 
-Design source: https://www.figma.com/file/T6Xewwh7oZQ9jlPgdsX3MM/Movies-app-(Community)
+Design source: https://www.figma.com/community/file/1147397006143520441
 
 
 # Preview:
