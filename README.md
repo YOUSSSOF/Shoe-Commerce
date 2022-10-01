@@ -7,8 +7,8 @@ Design source: https://www.figma.com/file/T6Xewwh7oZQ9jlPgdsX3MM/Movies-app-(Com
 
 # Preview:
 
-| #1 | #2 | #3 | #4 | #5 | #6 | #7 | #8 | #9 | #10 | #11
---- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- |---
+Attempt | #1 | #2 |
+--- | --- |
 
 
 ## Features:
