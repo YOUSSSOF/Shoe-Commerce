@@ -1,16 +1,32 @@
-# ecommerce
+# Movies App
 
-A new Flutter project.
+Modern looking shoe store app built in flutter and help of GetX :)
 
-## Getting Started
+Design source: https://www.figma.com/file/T6Xewwh7oZQ9jlPgdsX3MM/Movies-app-(Community)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+# Preview:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Attempt | #1 | #2 | #3 | #4 | #5 | #6 | #7 | #8 | #9 | #10 | #11
+--- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- |---
+Seconds | 301 | 283 | 290 | 286 | 289 | 285 | 287 | 287 | 272 | 276 | 269
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## Features:
+
+- Search among products.
+- Add products to your cart.
+- Read about the product you want.
+
+
+## Instalation:
+
+```
+- clone the repo
+- flutter pub get
+- flutter run
+```
+
+enjoy!
+
+
