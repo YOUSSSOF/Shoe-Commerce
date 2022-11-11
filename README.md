@@ -9,13 +9,6 @@ Modern looking shoe store app built in flutter and help of GetX :)
 | ![Screenshot_20221001_204626_com example ecommerce](https://user-images.githubusercontent.com/93007857/193422244-4b3ed919-e9d7-4c14-b26d-59ed6e54b8c7.jpg) | ![Screenshot_20221001_204644_com example ecommerce](https://user-images.githubusercontent.com/93007857/193422250-4d925915-f1f2-494a-b53f-f09157ac0600.jpg)    
 
 
-
-
-
-
-
-
-
 ## Features:
 
 - Search among products.
