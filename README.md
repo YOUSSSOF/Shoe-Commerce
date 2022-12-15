@@ -16,7 +16,7 @@ Modern looking shoe store app built in flutter and help of GetX :)
 - Read about the product you want.
 
 
-## Instalation:
+## Installation:
 
 ```
 - clone the repo
